@@ -11,8 +11,6 @@ I am a master's student currently studying at Guizhou University. I am a member 
 
 My main research focuses on deep learning related technologies, mainly involving controllable generation techniques for Large Language Models (LLMs). The main task of my research is Chinese Grammar Correction (CGEC). In addition, I am interested in many related technologies of LLM, such as quantification, agents, RAG, etc.
 
-(Note: My personal blog is still being improved, and many parts are still template content that has not been changed yet.)
-
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
